@@ -1,12 +1,10 @@
 ### Hello, world!
 
-I'm Robbie, a software engineer based in London, UK.
+I'm Robbie - a software engineer based in London, UK.
 
-For the last few years I've been specialising in frontend development - mostly using JavaScript, React and Node.js.
+My current focus is in backend development - predominantly using Python. Recently, I've been drawn to Rust and am keen to explore more applications of this exciting language.
 
-I'm now working more full stack professionally and have been building with Kubernetes, Scala, and Python.
-
-The web3 bug has bit me and there might not be any going back. I've been having fun learning about Solidity, Solana programs and dApps and keen to keep exploring what's possible - exciting times are ahead for us all.
+I'm also a proficient frontend developer, creating projects of all sizes using {Java,Type}Script, React and Node.js.
 
 <!--
 **robgyiv/robgyiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
